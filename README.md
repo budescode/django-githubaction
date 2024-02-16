@@ -16,7 +16,7 @@ Follow these steps to set up and run your Django project using Docker:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/budescode/django-docker-nginx-starter.git
+   git clone https://github.com/budescode/django-githubaction.git
    cd project
 
 2. Create an .env file in the project and paste your env variables needed for the project   
